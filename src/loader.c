@@ -355,13 +355,13 @@ void sleep(uint32_t seconds)
 
 void illuminati(void)
 {
-	OSScreenPutFontEx(0, 0, 0, "\t\t\t\t     `-.    -./\\.-    .-' ");
-	OSScreenPutFontEx(0, 0, 1, "\t\t\t\t         -.  /_|\\  .-");
-	OSScreenPutFontEx(0, 0, 2, "\t\t\t\t     `-.   `/____\\'   .-'.");
-	OSScreenPutFontEx(0, 0, 3, "\t\t\t\t  `-.    -./.-''-.\\.-      '");
-	OSScreenPutFontEx(0, 0, 4, "\t\t\t\t     `-.  /< (()) >\\  .-'");
-	OSScreenPutFontEx(0, 0, 5, "\t\t\t\t   -   .`/__`-..-'__\\'   .-");
-	OSScreenPutFontEx(0, 0, 6, "\t\t\t\t ,...`-./___|____|___\\.-'.,.");
+	OSScreenPutFontEx(0, 0, 0, "\t\t\t\t      `-.    -./\\.-    .-' ");
+	OSScreenPutFontEx(0, 0, 1, "\t\t\t\t          -.  /_|\\  .-");
+	OSScreenPutFontEx(0, 0, 2, "\t\t\t\t      `-.   `/____\\'   .-'.");
+	OSScreenPutFontEx(0, 0, 3, "\t\t\t\t   `-.    -./.-''-.\\.-      '");
+	OSScreenPutFontEx(0, 0, 4, "\t\t\t\t      `-.  /< (()) >\\  .-'");
+	OSScreenPutFontEx(0, 0, 5, "\t\t\t\t    -   .`/__`-..-'__\\'   .-");
+	OSScreenPutFontEx(0, 0, 6, "\t\t\t\t  ,...`-./___|____|___\\.-'.,.");
 	OSScreenPutFontEx(1, 0, 0, "\t\t\t      /\\ ");
     OSScreenPutFontEx(1, 0, 1, "\t\t\t     /  \\ ");
     OSScreenPutFontEx(1, 0, 2, "\t\t\t    /,--.\\ ");
